@@ -1,15 +1,14 @@
 import  React from 'react';//the new version of react d't need this
 import Header from '../comp/header'
 import Footer from '../comp/footer'
+import Main from '../comp/main'
 
 const Html = () =>{
   return(
     <>
       <Header/>
 
-  <main>
-   html page
-  </main>
+  <Main pageName="Html" designer = "Said Faroun"/>
   <Footer/>
 
     </>

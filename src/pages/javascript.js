@@ -1,6 +1,7 @@
 import  React from 'react';//the new version of react d't need this
 import Header from '../comp/header'
 import Footer from '../comp/footer'
+import Main from '../comp/main'
 
 const JavaScript = () =>{
   return(
@@ -8,10 +9,7 @@ const JavaScript = () =>{
     <Header/>
     
 
-  <main>
-  JavaScript page
-  </main>
-
+  <Main pageName="JavaScript" designer = "Yahia Mahmoud"/>
 
 
 
