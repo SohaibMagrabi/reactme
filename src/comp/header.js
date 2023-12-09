@@ -1,9 +1,10 @@
 import React from 'react'
 import {Link, NavLink} from "react-router-dom"
+import "./header.css"
 const Header = () => {
   return (
     <>
-    <header  className="hide-when-mobile">
+    <header  className="hide-when-mobile ali">
     <h1>
       <Link to="/">c4a</Link>
     </h1>

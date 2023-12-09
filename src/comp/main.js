@@ -1,4 +1,5 @@
 import react from 'react';
+import "./main.css"
 const Main = ({pageName, designer}) => {
   return(
     <>

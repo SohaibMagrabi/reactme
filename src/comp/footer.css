@@ -1,0 +1,16 @@
+ footer{
+  background-color: #1b1b1b;
+
+  padding: 20px 0;
+  text-align: center;
+  font-size: 18px;
+}
+.myfooter .ali{
+  background-color: teal ;
+}
+/* another way to specify ali class to footer is by 
+naming foote.module.css
+import styles from "./footer.module.css";
+لكنها طريقة صعبة وذات عيوب
+
+*/
