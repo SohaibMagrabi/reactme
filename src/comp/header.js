@@ -14,7 +14,7 @@ const Header = () => {
           <NavLink className='main-link' to='/html'>
             HTML
           </NavLink>
-          {/*   <ul className="sub-ul">
+            <ul className="sub-ul">
             <li>
               <a to="">Full Course</a>
             </li>
@@ -24,13 +24,13 @@ const Header = () => {
             <li>
               <a href="">learn in 1h</a>
             </li>
-          </ul>*/}
+          </ul>
         </li>
         <li className='main-list'>
           <NavLink className='main-link' to='/css'>
             CSS
           </NavLink>
-          {/* <ul className="sub-ul">
+          <ul className="sub-ul">
             <li>
               <a href="">Full Course</a>
             </li>
@@ -51,17 +51,17 @@ const Header = () => {
                 </li>
               </ul>
             </li>
-          </ul> */}
+          </ul>
         </li>
         <li className='main-list'>
           <NavLink className='main-link' to='/javascript'>
             JavaScript
           </NavLink>
-          {/* <ul className="sub-ul sub-of-js">
+          <ul className="sub-ul sub-of-js">
             <li>
               <a href="">coming soon🔥</a>
             </li>
-          </ul> */}
+          </ul>
         </li>
       </ul>
     </header>
