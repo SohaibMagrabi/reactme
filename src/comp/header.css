@@ -16,3 +16,8 @@
     display: none;
   }
 }
+/* new modification after hosting on firebase */
+.myheader .ali{
+  background-color: teal;
+}
+
